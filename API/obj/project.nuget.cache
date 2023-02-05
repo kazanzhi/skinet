@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mDFKF8gQ6BZQltrvNgTP2ah3RVvPYCGQuAKnZFvG4Y2HlDx15KaFaLeWfq1Ztp5+1r7V/kkdniUfjSPnTG0dgQ==",
+  "dgSpecHash": "RFQpjWqxPZt8dHxfMot451NOj4auRC4uuqxRzCqJHPZ3yZU+Hn6W8GOE2G0n0Zrz8zazLdhZStW9VW1rlaV3BQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yevhen Kazanzhy\\Desktop\\Udemy course (skinet)\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\Yevhen Kazanzhy\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",

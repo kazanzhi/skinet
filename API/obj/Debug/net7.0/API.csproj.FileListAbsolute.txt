@@ -70,3 +70,6 @@ C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7
 C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\Infrastructure.dll
 C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\Core.pdb
+C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yevhen Kazanzhy\Desktop\Udemy course (skinet)\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
